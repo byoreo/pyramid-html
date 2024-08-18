@@ -11,3 +11,13 @@
 <div align="center">
   <a href="https://github.com/byoreo/pyramid-html/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/download-blue?style=plastic" /></a>
 </div>
+
+<div align="center">
+  
+### **What is Pyramid?**
+
+</div>
+
+<div align="center">
+A prism spinning around itself, you that you can use on your website. It offers a more beautiful look!
+</div>
