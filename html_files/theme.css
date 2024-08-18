@@ -14,7 +14,7 @@ body {
     transform: scale(0.85);
     perspective: 1200px;
     perspective-origin: 50% 50%;
-    margin-top: 150px; /* Boşluk için margin ekliyoruz */
+    margin-top: 150px;
 }
 
 .pyramid3d {
