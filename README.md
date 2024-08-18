@@ -19,5 +19,5 @@
 </div>
 
 <div align="center">
-A prism spinning around itself, you that you can use on your website. It offers a more beautiful look!
+A prism spinning around itself, you can use on your website. It offers a more beautiful look!
 </div>
